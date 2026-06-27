@@ -18,4 +18,16 @@ This portfolio is where I'll share GIS projects I've completed using ArcGIS Pro,
 
 ## Projects
 
-Projects will be added here as I build my portfolio.
+## Featured Project
+
+### GIS Programming
+
+In this course I learned the fundamentals of GIS workflows using ArcGIS Pro. I completed exercises involving geoprocessing, spatial analysis, and data management while becoming familiar with industry-standard GIS tools.
+
+**Software Used**
+- ArcGIS Pro
+
+**Skills Demonstrated**
+- Geoprocessing
+- Spatial Analysis
+- Data Management
